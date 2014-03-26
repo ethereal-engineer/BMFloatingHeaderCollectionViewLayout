@@ -1,0 +1,7 @@
+pod "BMCollectionViewLayout", :path => "../BMCollectionViewLayout.podspec"
+
+target "Demo" do
+end
+
+target "DemoTests" do
+end
