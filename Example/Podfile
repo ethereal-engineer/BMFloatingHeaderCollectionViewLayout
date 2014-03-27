@@ -1,7 +1,11 @@
-pod "BMCollectionViewLayout", :path => "../BMCollectionViewLayout.podspec"
+platform :ios, '7.1'
 
-target "Demo" do
+target :LayoutDemo do
+
+pod 'BMFloatingHeaderCollectionViewLayout', :path => '../BMFloatingHeaderCollectionViewLayout.podspec'
+pod 'SSDataSources'
+
 end
 
-target "DemoTests" do
+target :LayoutDemoTests do
 end

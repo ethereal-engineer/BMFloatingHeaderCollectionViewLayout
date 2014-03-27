@@ -1,0 +1,17 @@
+PODS:
+  - BMFloatingHeaderCollectionViewLayout (0.1.0)
+  - SSDataSources (0.6.0)
+
+DEPENDENCIES:
+  - BMFloatingHeaderCollectionViewLayout (from `../BMFloatingHeaderCollectionViewLayout.podspec`)
+  - SSDataSources
+
+EXTERNAL SOURCES:
+  BMFloatingHeaderCollectionViewLayout:
+    :path: ../BMFloatingHeaderCollectionViewLayout.podspec
+
+SPEC CHECKSUMS:
+  BMFloatingHeaderCollectionViewLayout: f8221691a946c319ee1d76325cf579a782c82126
+  SSDataSources: cea022d78248c159e8c374161fdf2c8a21fffd41
+
+COCOAPODS: 0.32.1
